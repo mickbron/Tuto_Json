@@ -1,6 +1,7 @@
 {
 	"author":"Mickbron", 
 	"name": "fcc-learn-npm-package-json",
+	"description": "Projet JSON",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
